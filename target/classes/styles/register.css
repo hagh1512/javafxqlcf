@@ -1,0 +1,18 @@
+Button.btn-customer{
+    -fx-background-color: #47ff50;
+    -fx-text-fill:#353b48;
+    -fx-font-weight: bold;
+    -fx-font-size: 17;
+    -fx-font-family:"Times New Roman";
+}
+Button.btn-admin{
+    -fx-background-color: black;
+    -fx-text-fill:white;
+    -fx-font-weight: bold;
+    -fx-font-size: 17;
+    -fx-font-family:"Times New Roman";
+}
+AnchorPane{
+    -fx-background-image:url("../styles/images/coffee.jpg");
+    
+}
